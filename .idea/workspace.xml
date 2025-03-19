@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f997c8cf-0235-4925-b71a-c4a7d36fb570" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SeleniumPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Omkarlokare&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Omkarlokare/SeleniumPractice.git&quot;,
+    &quot;accountId&quot;: &quot;e84114c2-fa39-47e7-9c22-bfb9083ebb32&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -46,6 +57,8 @@
     "Python.Advanced_Interaction_using_ActionClass.executor": "Run",
     "Python.Auto-Suggestive_Dropdown.executor": "Run",
     "Python.Chrome_Options.executor": "Run",
+    "Python.E2E_TestCase.executor": "Run",
+    "Python.E2E_Testcase_ECom.executor": "Run",
     "Python.E2Ee_Testcase_ECom.executor": "Run",
     "Python.Ex_001.executor": "Run",
     "Python.Handling_Child_WondowTabs.executor": "Run",
@@ -58,7 +71,8 @@
     "Python.Static_Dropdown.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "last_opened_file_path": "C:/Users/lokar/PycharmProjects/PythonTesting/SeleniumPractice",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -77,6 +91,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718782179421</updated>
     </task>
+    <task id="LOCAL-00001" summary="Selenium Practice">
+      <option name="closed" value="true" />
+      <created>1734856011473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734856011473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Selenium Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium Practice" />
   </component>
 </project>
